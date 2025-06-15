@@ -1,0 +1,29 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mohammadaasif1/React.git"
+  },
+  "keywords": [
+    "\"react\""
+  ],
+  "author": "Ashu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammadaasif1/React/issues"
+  },
+  "homepage": "https://github.com/Mohammadaasif1/React#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
